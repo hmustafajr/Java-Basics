@@ -4,7 +4,7 @@ HashMap<String, Integer> dict = new HasMap<String, Integer>()
   dict.put("top", 3);
   dict.put("bottom", 4);
 
-// you can also abbreviate in Java on an interview. It's fine if you can explain it
+// when in a coding interview, abbreviating is fine just make sure you explain it
 HM<S, I> dict = new HM<S, I>()
   dict.put("left", 1);
 ... "right", 2
